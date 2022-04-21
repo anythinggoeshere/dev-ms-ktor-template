@@ -15,4 +15,6 @@ fun Application.module() {
     koinConfiguration()
     configureMonitoring()
     configureRouting()
+
+     dd
 }
